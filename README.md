@@ -4,7 +4,7 @@ Contiene herramientas de spammers con varios tipos con límites altos, incluso e
 INSTALACIÓN
 $ pkg update upgrade
 $ pkg install git python2 toilet figlet php
-$ git clone https://github.com/4L13199/LITESPAM
+$ git clone https://github.com/HackTermuxSG/LITESPAMSG
 $ cd LITESPAMSG
 $ chmod 777 LITESPAMSG.sh
 $ bash LITESPAMSG.sh
